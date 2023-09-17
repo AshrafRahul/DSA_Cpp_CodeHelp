@@ -33,7 +33,6 @@ void print(int ans[], int n){
     cout << endl;
 }
 
-
 int main(){
     int arr1[5] = {1,3,5,7,9};
     int arr2[3] = {2,4,6};
