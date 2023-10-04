@@ -20,8 +20,7 @@ int main(){
 
     if(isPrime(n)){
         cout << "It is a prime number" << endl;
-    }
-    else{
+    } else{
         cout << "It is not a prime number" << endl;
     }
 
