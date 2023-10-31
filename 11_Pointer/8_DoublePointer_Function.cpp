@@ -6,11 +6,11 @@ void update1(int** p2){
 }
 
 void update2(int** p2){
-    *p2 = *p2 + 1;
+    *p2 = *p2 + 1; //change
 }
 
 void update3(int** p2){
-    **p2 = **p2 + 1;
+    **p2 = **p2 + 1; //change
 }
 
 int main(){
